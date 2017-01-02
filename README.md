@@ -4,3 +4,7 @@ Like the original, after each move the program adds a tile containing either a 2
 Players can move in one of four directions (north, south, east, or west). 
 Equivalent tiles merge when they are adjacent to each other and sliding in the same direction.
 The goal of the game is to form a tile of value 2048. 
+
+
+
+![Game Screenshot](http://i.huffpost.com/gen/1684500/original.jpg)
